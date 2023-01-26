@@ -2,6 +2,7 @@ module.exports = {
   title: "🐧企鹅",
   description: "Hi Friends Let Coding",
   dest: "docs/.vuepress/blog",
+  base: "/docs/.vuepress/blog/",
   themeConfig: {
     nav: [
       {
